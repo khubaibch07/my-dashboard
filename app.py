@@ -732,7 +732,7 @@ with tabs[5]:
                 name=chosen_track,
                 line=dict(color="#39FF14", width=2.5),
                 fill="toself",
-                fillcolor="#39FF1420",
+                fillcolor="rgba(57, 255, 20, 0.13)",
             ))
 
             fig_track.update_layout(
